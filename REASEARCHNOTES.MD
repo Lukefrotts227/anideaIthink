@@ -1,0 +1,3 @@
+# Here are my notes for research
+## SuperBot/Overseer
+I keep running into a need for a mehtod of having different parts of a large model talk to each other properly. This "superbot" would be a manager using the reasources of everything else properly. The base version as a simple reasource manager is easy however a true version of it would be able to manage and control reasources on a more advanced level. Creating models as needed and giving everything a high level of instruction to tackle problems that may not be known. I have also seen it as the glue that can connect several models and have them use there strengths effectivley. Ironically the glue seems to be the most difficult and advanced part of the project 
